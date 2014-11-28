@@ -1,0 +1,9 @@
+@font-face { font-family: Tlok; src: url('Tlok.ttf'); } 
+@font-face { font-family: Banteay-Srey; src: url('BanteaySrey.ttf'); } 
+@font-face { font-family: AntiochText; src: url('AntiochText.ttf'); }             
+@font-face { font-family: AngTaso; src: url('AngTaso.ttf'); }             
+@font-face { font-family: Muol-Pali; src: url('Kh-Muol-Pali.ttf'); }  
+
+.reaveal h1 {
+	font-family: Muol-Pal;
+}
